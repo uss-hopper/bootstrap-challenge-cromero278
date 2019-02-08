@@ -11,7 +11,9 @@
 }
 
 .thirdblock img{
-	padding-bottom:2rem
+	padding-bottom:2rem;
+	height: 260px;
+	width: 240px;
 }
 
 .rounded-circle {
@@ -25,6 +27,6 @@
 
 .footer {
 	background: black;
-	color: deeppink;
+	color: white;
 	padding:2rem;
 }
