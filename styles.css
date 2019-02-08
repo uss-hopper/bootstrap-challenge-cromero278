@@ -1,8 +1,13 @@
 
+.top {
+	margin-top:1rem;
+	margin-bottom:3rem;
+}
 .thirdblock {
 	background-color: #E9ECEF;
 	padding: 2rem;
-	margin-bottom: 2rem;
+	margin-top:3rem;
+	margin-bottom: 3rem;
 }
 
 .thirdblock img{
@@ -16,4 +21,9 @@
 
 .card-body p {
 	padding:1rem;
+}
+
+.footer {
+	background: black;
+	color: deeppink;
 }
