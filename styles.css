@@ -1,7 +1,12 @@
+
 .thirdblock {
 	background-color: #E9ECEF;
 	padding: 2rem;
 	margin-bottom: 2rem;
+}
+
+.thirdblock img{
+	padding-bottom:2rem
 }
 
 .rounded-circle {
@@ -9,3 +14,6 @@
 
 }
 
+.card-body p {
+	padding:1rem;
+}
