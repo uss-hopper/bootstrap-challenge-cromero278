@@ -1,3 +1,11 @@
 .thirdblock {
-	background-color: lightgrey;
+	background-color: #E9ECEF;
+	padding: 2rem;
+	margin-bottom: 2rem;
 }
+
+.rounded-circle {
+	margin: 1rem;
+
+}
+
